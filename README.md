@@ -2,12 +2,8 @@
 
 # Dataset Information
 Extraction was done by Barry Becker from the 1994 Census
-database. A set of reasonably clean records was extracted using
-the
-following conditions: ((AAGE&gt;16) &amp;&amp; (AGI&gt;100) &amp;&amp;
-(AFNLWGT&gt;1)&amp;&amp; (HRSWK&gt;0))
-Attribute Information:
-Listing of attributes: &gt;50K, &lt;=50K.
+database.
+Listing of attributes: >50K, <=50K.
 age: continuous.
 workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov,
 Local-gov, State-gov, Without-pay, Never-worked.
@@ -40,12 +36,12 @@ El-
 Salvador, Trinadad&amp;Tobago, Peru, Hong, Holand-Netherlands.
 
 # Packages used
-Numpy
-Pandas
-Pandas_profiling
-Matlab
-sklearn
-xgboost
+* Numpy
+* Pandas
+* Pandas_profiling
+* Matlab
+* sklearn
+* xgboost
 
 
 

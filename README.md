@@ -1,7 +1,6 @@
-# Activity Recognition system based on Multisensor data fusion (AReM) 
 # The model will be used in predicting wether a person makes over50K per year or not from classic adult dataset using XGBoost.
 
-* Dataset Information
+# Dataset Information
 Extraction was done by Barry Becker from the 1994 Census
 database. A set of reasonably clean records was extracted using
 the

@@ -15,7 +15,8 @@ Listing of target: >50K, <=50K.
 * sklearn
 * xgboost
 
-
+# Accuracy of the model
+86 %
 
 # model deployed on aws heroku server 
 https://wage-class-pred.herokuapp.com/

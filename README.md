@@ -17,5 +17,5 @@ Listing of target: >50K, <=50K.
 
 
 
-# model deployed on aws server 
+# model deployed on aws heroku server 
 https://wage-class-pred.herokuapp.com/
